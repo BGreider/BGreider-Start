@@ -73,6 +73,6 @@ public class Guide {
      *  of the tests.
      *  Your task will be modifying the code in the remainder of the course repo so that their test cases pass rather
      *  than fail.
-     * This is my comment
+     * This is my comment here
      */
 }
